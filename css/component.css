@@ -79,7 +79,7 @@ a:hover {
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-	background: #00bacf;
+	background: #0D8278;
 }
 
 .bl-box {
@@ -372,16 +372,16 @@ div.bl-panel-items > div.bl-hide-current-work {
 }
 
 .bl-main > section:first-child.bl-expand {
-	background: #EE4444;
+	background: #0d825b;
 }
 .bl-main > section:nth-child(2).bl-expand {
-	background: #F98262;
+	background: #0d823e;
 }
 .bl-main > section:nth-child(3).bl-expand {
 	background: #4BBE8E;
 }
 .bl-main > section:nth-child(4).bl-expand {
-	background: #0D8278;
+	background: #12b054;
 }
 
 .bl-main.bl-expand-item > section:not(.bl-expand),
